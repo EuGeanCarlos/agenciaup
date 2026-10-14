@@ -52,3 +52,7 @@ Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue
 [GitHub](https://github.com/EuGeanCarlos)
 
 Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+## Validação desta auditoria — 14/10/2026
+
+Sem publicação nova confirmada. Há pelo menos 12 referências a imagens ausentes no HTML. Recuperar os recursos originais antes de publicar; não foram inseridas imagens genéricas.
